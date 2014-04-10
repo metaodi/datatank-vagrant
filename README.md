@@ -10,9 +10,11 @@ Make sure you have [vagrant](http://docs.vagrantup.com/v2/installation/) and [Vi
 
 ## Installation
 
-1. Clone this repository `git clone https://github.com/metaodi/datatank-vagrant.git`
-2. Change in the cloned repository `cd datatank-vagrant`
-3. Run `vagrant up`
+```bash
+git clone https://github.com/metaodi/datatank-vagrant.git
+cd datatank-vagrant
+vagrant up
+```
 
 ### Host entry
 
